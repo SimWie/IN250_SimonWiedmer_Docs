@@ -10,4 +10,16 @@
 
 ## Aufgabe 3
 1. Im Repo eine .md Datei erstellen und den Prozess dokumentieren
-2. 
+2. `git add git_basics.md` Datei zum Pushen hinzufügen
+3. `git commit -m "Initial commit"` einen Commit machen mit einem Komentar
+
+## Aufgabe 4
+1. Im Repo eine Txt Datei erstellen und diese ".gitignore" nenne (**ohne endung!**)
+2. Mit dem VC öffnen und die zu ignorierenden Datein oder Dateiendungen hineinschreiben
+3. `git commit -m "Add gitignore"` einen Commit machen mit einem Komentar
+
+## Aufgabe 5
+Bei mir habe ich nicht feststellen können
+
+## Augabe 6
+Damit die Datein auf dem Server gespeichert sind und nichts aufgrund des Feuers verlohren geht.
