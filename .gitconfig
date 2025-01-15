@@ -1,0 +1,5 @@
+[user]
+	name = SimWie
+	email = simon.wiedmer@hftm.ch
+[core]
+	editor = \"C:\\Users\\simwi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
